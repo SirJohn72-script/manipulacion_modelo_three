@@ -1,6 +1,7 @@
 # Manipulacion de un modelo importado a Three.js
 Ejemplo de manipulacion de un modelo de Blender a Three.js 
---Contiene 
+
+###Contiene 
 ---Modelo del personaje de Among us 
 ---Manipulacion del modelo de anillo 
 Explicacion: 
