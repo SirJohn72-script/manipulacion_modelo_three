@@ -12,3 +12,5 @@ https://www.youtube.com/playlist?list=PLjRcsbTWNwYeeBmtfm9X1Mn5g46wejigO
 ## Instalacion 
 No te olvides de ejecutar el comando $ npm install , una vez hayas descargado el proyecto c: 
 
+## Cover
+![Anillos Cover]()
